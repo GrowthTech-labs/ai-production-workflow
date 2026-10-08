@@ -1,0 +1,15 @@
+{
+  "session": "sample",
+  "required_checks": [
+    "copy-standard",
+    "quality-gate",
+    "regression-check",
+    "sanitization-scan",
+    "proof-execution"
+  ],
+  "completed_checks": [
+    "copy-standard",
+    "sanitization-scan",
+    "proof-execution"
+  ]
+}
